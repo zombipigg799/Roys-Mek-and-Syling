@@ -1,0 +1,20 @@
+Credit : Patoche
+Mapping : MLO
+Localisation : Paleto
+Version : FiveM - SP ready
+
+-----------------------------------------------------------------------------
+----------------------- Installation SINGLEPLAYER : -----------------------
+1) - Open the file with 7zip, Winrar or any other program that allows you to unzip these types of files.
+2) - Put "int_paletomoto" folder into 'mods/update/x64/dlcpacks' director.
+3) - add dlcpacks:/int_paletomoto/ in the dlclist.xml located at 'mods/update.rpf/common/data'.
+4) - Start your Singleplayer party and let's go
+
+
+----------------------- Installation [MAPPING] FIVEM : -----------------------
+A)- Open the file with 7zip, Winrar or any other program that allows you to unzip these types of files
+B)- Put "paleto_moto" into your MAP FOLDER
+C)- Open your server.cfg and "start paleto_moto"
+D)- Start your server and let's go
+
+If you don't forget my next mapping don't hesitate to follow my youtube chanel
